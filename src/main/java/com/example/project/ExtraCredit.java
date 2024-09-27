@@ -49,9 +49,9 @@ public class ExtraCredit {
     
                                    
     public static void main(String[] args) {
-        int people = 0;
-        int percent = 0;
-        double cost = 0.0;
+        int people = 6;
+        int percent = 25;
+        double cost = 52.27;
         String items = ""; 
 
          
